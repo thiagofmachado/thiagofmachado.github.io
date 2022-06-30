@@ -5,10 +5,10 @@ header {
     background-color: #0D75D9;
     border-bottom: 10px solid #08415C;
     padding: 10px 20px;
- 
+
 }
 
-h1{
+h1 {
     font-family: 'El Messiri', sans-serif;
     font-size: 60px;
     font-weight: bold;
@@ -16,11 +16,11 @@ h1{
     text-shadow: 5px 2px #000;
 }
 
-nav{
+nav {
     text-align: right;
 }
 
-a::before{
+a::before {
     content: "";
     width: 10px;
     height: 10px;
@@ -39,7 +39,7 @@ a {
     margin-right: 30px;
 }
 
-a:hover{
+a:hover {
     transform: scale(1.1);
     text-decoration: underline;
 }
@@ -50,10 +50,63 @@ a:hover{
     padding: 18px 20px;
     box-shadow: 5px 5px 2px #000000;
     border-radius: 10px;
-    transition: transform 0.5s linear; 
+    transition: transform 0.5s linear;
 }
 
 #button:hover {
     background: linear-gradient(to right, #ef709b, #fa9372);
     transform: scale(1.1);
+}
+
+.foto {
+    width: auto;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: right;
+
+}
+
+#foto1,
+#foto2 {
+    height: 500px;
+    border: solid, black;
+}
+
+.cartao_visita {
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+  
+    background-color: #3A4042;
+    position: absolute;
+    width: 627px;
+    height: 184px;
+    left: 91px;
+    top: 196px;
+    box-shadow: 5px 5px 2px #000000;
+    border-radius: 10px;
+}
+
+#meu_nome {
+    font-family: 'El Messiri';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 40px;
+    color: #0D75D9;
+    text-shadow: 4px 4px 0px #000000;
+}
+
+#sub_título {
+    font-family: 'Fira Code', Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 30px;
+    color: #FFFFFF;
+
+    text-shadow: 4px 4px 0px #000000;
 }
