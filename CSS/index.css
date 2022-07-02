@@ -90,23 +90,5 @@ a:hover {
     border-radius: 10px;
 }
 
-#meu_nome {
-    font-family: 'El Messiri';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 40px;
-    line-height: 40px;
-    color: #0D75D9;
-    text-shadow: 4px 4px 0px #000000;
-}
 
-#sub_título {
-    font-family: 'Fira Code', Arial, Helvetica, sans-serif;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 30px;
-    line-height: 30px;
-    color: #FFFFFF;
 
-    text-shadow: 4px 4px 0px #000000;
-}
