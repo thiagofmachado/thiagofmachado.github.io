@@ -1,0 +1,19 @@
+.button {
+    text-align: center;
+    background-color: #0DD97C;
+    padding: 18px 20px;
+    box-shadow: 5px 5px 2px #000000;
+    border-radius: 10px;
+    color: #fff;
+    font-size: 20px;
+    transition: transform 0.2s cubic-bezier(0.95, 1.51, 0.74, 1.58);
+    text-decoration: none;
+    
+}
+
+.button:hover {
+    transform: scale(1.1);
+    text-decoration: underline;
+    background: linear-gradient(to right, #ef709b, #fa9372);
+    
+}
