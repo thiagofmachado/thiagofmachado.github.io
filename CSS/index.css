@@ -74,21 +74,7 @@ a:hover {
     border: solid, black;
 }
 
-.cartao_visita {
-    display: flex;
-    flex-direction: column;
-    justify-items: center;
-    align-items: center;
-  
-    background-color: #3A4042;
-    position: absolute;
-    width: 627px;
-    height: 184px;
-    left: 91px;
-    top: 196px;
-    box-shadow: 5px 5px 2px #000000;
-    border-radius: 10px;
-}
+
 
 
 
