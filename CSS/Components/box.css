@@ -2,7 +2,7 @@
 .box {
 =======
 #box {
->>>>>>> 14cf6512b475fe226bef5892a22aa3048c92484f
+>>>>>>> 563486b14ad1301be868410aacdd721ce05d8fd6
     display: inline-block;
     background-color: #3A4042;
     box-shadow: 7px 7px 3px #000000;
@@ -15,6 +15,6 @@
 .box .title{
 =======
 #box #meu_nome{
->>>>>>> 14cf6512b475fe226bef5892a22aa3048c92484f
+>>>>>>> 563486b14ad1301be868410aacdd721ce05d8fd6
     margin-bottom: 5px;
 }
