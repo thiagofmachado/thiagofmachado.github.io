@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 .box {
-=======
-#box {
->>>>>>> 563486b14ad1301be868410aacdd721ce05d8fd6
     display: inline-block;
     background-color: #3A4042;
     box-shadow: 7px 7px 3px #000000;
@@ -11,10 +7,6 @@
     padding: 20px 15px;
 }
 
-<<<<<<< HEAD
 .box .title{
-=======
-#box #meu_nome{
->>>>>>> 563486b14ad1301be868410aacdd721ce05d8fd6
     margin-bottom: 5px;
 }
