@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 .box {
+=======
+#box {
+>>>>>>> 14cf6512b475fe226bef5892a22aa3048c92484f
     display: inline-block;
     background-color: #3A4042;
     box-shadow: 7px 7px 3px #000000;
@@ -7,6 +11,10 @@
     padding: 20px 15px;
 }
 
+<<<<<<< HEAD
 .box .title{
+=======
+#box #meu_nome{
+>>>>>>> 14cf6512b475fe226bef5892a22aa3048c92484f
     margin-bottom: 5px;
 }

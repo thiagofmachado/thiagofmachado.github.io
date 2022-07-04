@@ -1,0 +1,80 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #0D75D9;
+    border-bottom: 10px solid #08415C;
+    padding: 10px 20px;
+
+}
+
+h1 {
+    font-family: 'El Messiri', sans-serif;
+    font-size: 60px;
+    font-weight: bold;
+    color: rgb(241, 230, 124);
+    text-shadow: 5px 2px #000;
+}
+
+nav {
+    text-align: right;
+}
+
+a::before {
+    content: "";
+    width: 10px;
+    height: 10px;
+    background: #1AE9F0;
+    margin-right: 10px;
+}
+
+a {
+    display: inline-flex;
+    align-items: center;
+    color: #fff;
+    font-size: 20px;
+    font-family: 'Fira Code', Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    text-decoration: none;
+    margin-right: 30px;
+}
+
+a:hover {
+    transform: scale(1.1);
+    text-decoration: underline;
+}
+
+#button {
+    text-align: right;
+    background-color: #0DD97C;
+    padding: 18px 20px;
+    box-shadow: 5px 5px 2px #000000;
+    border-radius: 10px;
+    transition: transform 0.5s linear;
+}
+
+#button:hover {
+    background: linear-gradient(to right, #ef709b, #fa9372);
+    transform: scale(1.1);
+}
+
+.foto {
+    width: auto;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: right;
+
+}
+
+#foto1,
+#foto2 {
+    height: 500px;
+    border: solid, black;
+}
+
+
+
+
+

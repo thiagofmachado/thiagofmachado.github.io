@@ -5,9 +5,12 @@ body{
 body, h1, h2, h3, h4{
     margin: 0px;
     padding: 0px;
+<<<<<<< HEAD
 }
 
 button{
     font-family: 'Fira Code', Arial, Helvetica, sans-serif;
     border: none;
+=======
+>>>>>>> 14cf6512b475fe226bef5892a22aa3048c92484f
 }
