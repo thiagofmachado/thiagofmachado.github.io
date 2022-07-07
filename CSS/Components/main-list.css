@@ -1,8 +1,19 @@
 .main-list{
+    display: flex;
     font-family: 'Fira Code', sans-serif;
     font-style: normal;
     font-weight: 400;
-    font-size: 30px;
+    font-size: 25px;
     color: #FFFFFF;
     text-shadow: 2px 3px 3px #000000;
+}
+
+.main-list .icon{
+    margin-right: 25px;
+}
+
+.main-list .tec{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
 }
