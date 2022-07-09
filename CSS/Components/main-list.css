@@ -1,5 +1,6 @@
 .main-list{
     display: flex;
+    align-items: center;
     font-family: 'Fira Code', sans-serif;
     font-style: normal;
     font-weight: 400;
