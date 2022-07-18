@@ -1,4 +1,4 @@
-.action::before {
+.main-action::before {
     content: "";
     width: 10px;
     height: 10px;
@@ -6,7 +6,7 @@
     margin-right: 10px;
 }
 
-.action {
+.main-action {
     display: inline-block;
     align-items: center;
     color: #fff;
@@ -16,7 +16,7 @@
     margin-right: 30px;
 }
 
-.action:hover {
+.main-action:hover {
     transform: scale(1.1);
     text-decoration: underline;
 }
