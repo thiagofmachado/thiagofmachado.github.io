@@ -1,4 +1,4 @@
-.skills-group {
+.main-skills-group {
     display: flex;
     flex-wrap: wrap;
     justify-items: center;
@@ -7,7 +7,7 @@
     max-width: 860px;
 }
 
-.skills-group .main-list{
+.main-skills-group .main-list{
     width: 430px;
 
 }

@@ -1,10 +1,10 @@
-.projetos{
+.main-projects{
     display: flex;
     justify-content: space-around;
     
 }
 
-.projetos img{
+.main-projects img{
     width: 200px;
     height: 200px;
     
