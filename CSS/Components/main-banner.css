@@ -1,4 +1,4 @@
-.banner{
+.main-banner{
     box-sizing: border-box;
     background-image: url(../../Assets/img/20220423_110823.jpg);
     background-size: 100%;
@@ -9,13 +9,13 @@
     padding-left: 90px;
 }
 
-.banner .wrapper{
+.main-banner .wrapper{
     display: flex;
     flex-direction: column;
     width: 440px;    
 }
 
-.banner .box{
+.main-banner .main-box{
     margin-bottom: 40px;
 }
 

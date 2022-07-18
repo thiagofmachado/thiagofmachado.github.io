@@ -1,4 +1,4 @@
-.section {
+.main-section {
     width: auto;
     height: 336ppx;
     background: #0D75D9;
@@ -7,7 +7,7 @@
     padding-bottom: 50px;
 }
 
-.section.-second{
+.main-section.-second{
     background-color: #000;
 
 }
