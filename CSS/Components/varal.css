@@ -6,3 +6,18 @@
     padding-right: 10px;
     
 }
+
+.varal .animacao {
+    width: 100%;
+    overflow: hidden;
+}
+
+.varal .translado{
+    display: flex;
+    justify-content: space-around;
+    
+}
+        
+
+
+
